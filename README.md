@@ -1,5 +1,3 @@
-### Simple BookMark extension 
+### Minimal BookMark extension API
 
-#### Features
-
-🔖Manage BookMarks
+- 🔖Manage your broswer bookmarks with this simple extension
